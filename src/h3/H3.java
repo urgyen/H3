@@ -114,15 +114,20 @@ public class H3 {
         System.out.println(apple);
         
         //4. Logical Operator
-        
-        
+  
 //        &&       ||   
 //        And      Or
         
-        if((apple >5) || (apple <20) )
+        if((apple >5) || (apple <20))
         {
             System.out.println("Condition Meet");
         }
+        
+        
+        // 5. Ternary Operator
+        // Java Operator?
+        
+      //  Assignment 
         
         
         
